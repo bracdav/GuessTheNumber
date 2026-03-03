@@ -13,9 +13,8 @@ public:
 
 	std::optional<int> number_to_guess;
 
-private:
-	bool validateBounds();
 	void setNumberToGuess();
+	bool validateBounds();
 	bool validateCompleteness();
 	bool validateInBounds();
 	void getDeltaGuess();
