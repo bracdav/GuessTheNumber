@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GuessingConfigs.cpp" />
     <ClCompile Include="GuessTheNumber.cpp" />
     <ClCompile Include="NumberOperations.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GuessingConfigs.h" />
     <ClInclude Include="NumberOperations.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
