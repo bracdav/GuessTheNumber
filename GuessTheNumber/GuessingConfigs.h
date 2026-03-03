@@ -5,6 +5,7 @@ using namespace std;
 
 class GuessingConfigs
 {
+public:
 	std::optional<int> lower_bound;
 	std::optional<int> upper_bound;
 	std::optional<int> guess;
@@ -12,6 +13,7 @@ class GuessingConfigs
 
 	std::optional<int> number_to_guess;
 
+private:
 	bool validateBounds();
 	void setNumberToGuess();
 	bool validateCompleteness();
