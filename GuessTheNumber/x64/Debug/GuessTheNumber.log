@@ -1,0 +1,5 @@
+﻿  NumberOperations.cpp
+C:\Users\david\Documents\git\GuessTheNumber\GuessTheNumber\NumberOperations.cpp(42,9): warning C4101: "number": Unreferenzierte lokale Variable
+C:\Users\david\Documents\git\GuessTheNumber\GuessTheNumber\NumberOperations.cpp(82,5): warning C4102: "std": Unreferenzierte Bezeichnung
+  LINK : C:\Users\david\Documents\git\GuessTheNumber\x64\Debug\GuessTheNumber.exe wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+  GuessTheNumber.vcxproj -> C:\Users\david\Documents\git\GuessTheNumber\x64\Debug\GuessTheNumber.exe
